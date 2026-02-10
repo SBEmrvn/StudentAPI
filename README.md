@@ -299,7 +299,31 @@ The application initializes with 5 sample students:
 | **404 NOT FOUND** | Resource not found | GET/PUT when student doesn't exist |
 
 ---
+SCREENSHOTS FOR OUTPUT 
+---
+<img width="1801" height="498" alt="Screenshot 2026-02-05 143829" src="https://github.com/user-attachments/assets/75c47da4-f6b6-4666-8c2c-62008cf721a3" />
+---
+<img width="1913" height="455" alt="Screenshot 2026-02-05 144053" src="https://github.com/user-attachments/assets/f3d5892a-0d64-4b62-81f8-cd64bd2220b4" />
+---
+<img width="1919" height="478" alt="Screenshot 2026-02-05 144105" src="https://github.com/user-attachments/assets/e90dd644-d784-4376-ab8a-3559da1b7366" />
+---
+<img width="1919" height="932" alt="Screenshot 2026-02-05 144114" src="https://github.com/user-attachments/assets/fbdd772d-4667-485b-995f-12e4c4a6f859" />
+---
+<img width="1919" height="845" alt="Screenshot 2026-02-05 144213" src="https://github.com/user-attachments/assets/af15e026-5a3f-44f7-bab4-e80a4e8dd563" />
+---
+<img width="1911" height="975" alt="Screenshot 2026-02-05 144248" src="https://github.com/user-attachments/assets/5320916b-f193-4c4e-9ace-1c436b813564" />
+---
+<img width="1915" height="975" alt="Screenshot 2026-02-05 144338" src="https://github.com/user-attachments/assets/87fce625-7f8f-4ee1-8312-6b37d8db564c" />
+---
+<img width="1919" height="972" alt="Screenshot 2026-02-05 144420" src="https://github.com/user-attachments/assets/88308660-5e9f-461c-9936-fa48d1293188" />
+---
+<img width="1742" height="912" alt="Screenshot 2026-02-05 144752" src="https://github.com/user-attachments/assets/dc184f9e-025a-41fe-a618-8c8cde7016d0" />
+---
+<img width="1808" height="951" alt="Screenshot 2026-02-05 145408" src="https://github.com/user-attachments/assets/9006817e-2fa6-40b1-9bb5-6da6b2b20ca2" />
+---
+<img width="1919" height="1074" alt="Screenshot 2026-02-05 150050" src="https://github.com/user-attachments/assets/194caf4d-6c62-463f-abd1-6a61028e54d0" />
 
+---
 ## Author
 SHEDRICK BUCAGU ELISA  
 26939
